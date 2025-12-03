@@ -225,8 +225,7 @@ $scope.deleteProduct = function(){
     }, function errorCallback(response){
         $scope.showToast("Unable to delete record.");
     });
- 
-}
+ }
  
 // searchProducts will be here
 // search products
