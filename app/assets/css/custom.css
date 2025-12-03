@@ -16,6 +16,6 @@ md-dialog{ width:50%; }
 .w-80-pct{ width:80%; }
 .w-90-pct{ width:90%; }
 .w-100-pct{ width:100%; }
-.t-a-c{ text-align:center; }
+.t-a-c{ text-align:left; }
 .t-a-l{ text-align:left; }
 .margin-bottom-1em{ margin-bottom:1em; }
