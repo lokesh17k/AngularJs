@@ -3,7 +3,6 @@ AngularJS CRUD Example with Material Design – Step by Step Guide!
 
 we will learn how to do the same CRUD operations with AngularJS, Angular Material and REST API.
 
-
 BASIC FILES & FOLDERS
 ---
 File Structure
